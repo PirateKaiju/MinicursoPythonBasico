@@ -1,0 +1,12 @@
+Peixe: Tubarão, Carpa, Salmão
+Moto: BMW, SUZUKI, HONDA
+Cenário: Campo, Floresta, Cidade
+
+g1 = marceneiro; cozinheiro; motorista; professor; faxineiro; advogado; policial;
+g2 = machado; canivete; martelo; alicate;
+
+g1.informacoes_emprego()
+g1.trabalha()
+
+g2.opera()
+g2.isFuncional()

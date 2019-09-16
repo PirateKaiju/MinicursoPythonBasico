@@ -1,0 +1,7 @@
+cartao = open("cartao.txt", "w")
+cartao.write("######################################" + "\n")
+cartao.write("Nome: " + raw_input("Digite seu nome: ") + "\n")
+cartao.write("Profissao: " + raw_input("Digite sua profissao: ")+ "\n")
+cartao.write("Lema: " + raw_input("Digite seu lema: ")+ "\n")
+cartao.write("######################################"+ "\n")
+cartao.close()

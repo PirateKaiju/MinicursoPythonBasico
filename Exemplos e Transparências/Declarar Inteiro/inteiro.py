@@ -1,0 +1,1 @@
+inteiro = 42 #Python
